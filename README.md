@@ -6,8 +6,7 @@ Check out the project report for description of the entire project: [Project rep
 
 ### Abstract:
 We present a comprehensive investigation
-into the problem of automatically gener-
-ating timestamps for videos. To address
+into the problem of automatically generating timestamps for videos. To address
 this challenge, we propose and evaluate
 two different automatic pipelines for
 timestamp generation. Our first approach
