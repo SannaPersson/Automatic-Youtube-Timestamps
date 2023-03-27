@@ -1,5 +1,5 @@
 # Automatic-Youtube-Timestamps
-Repository for project at Machine learning for NLP course
+Repository for project at Machine learning for NLP course at Chalmers University of Technology.
 
 
 Check out the project report for description of the entire project: [Project report](https://github.com/SannaPersson/Automatic-Youtube-Timestamps/blob/main/Automatic%20Timestamp%20Generation%20for%20YouTube.pdf)
